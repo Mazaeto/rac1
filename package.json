@@ -1,0 +1,32 @@
+{
+  "engines": {
+    "node": "16.x"
+  },
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "axios": "^0.24.0",
+    "discord.js": "^13.4.0",
+    "edit-json-file": "^1.7.0",
+    "express": "^4.17.3",
+    "fs": "^0.0.1-security",
+    "generate-key": "^0.0.6",
+    "glob": "^7.2.0",
+    "humanize-duration": "^3.27.1",
+    "luamin": "^1.0.4",
+    "mongoose": "^6.1.4",
+    "ms": "^2.1.3",
+    "noblox.js": "^4.12.0",
+    "nodemon": "^2.0.15",
+    "qs": "^6.10.3",
+    "redis": "^4.0.1"
+  },
+  "name": "ok",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
